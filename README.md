@@ -1,1 +1,0 @@
-# prak_slicingRE_SofaChasaniWibisono_001
