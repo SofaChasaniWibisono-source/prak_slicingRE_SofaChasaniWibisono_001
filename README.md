@@ -12,7 +12,8 @@ Ruang Ekspresi adalah platform berbasis web yang dirancang untuk menampilkan pro
 - **Lucide Icons**
 - **Modular Component Structure**
 - **Dynamic Data Rendering (JSON Array)**
-
+- - **Build (install gh-pages --save-dev) untuk push ke gitpages**
+npm run build
 ---
 
 ## 📁 Folder Structure
