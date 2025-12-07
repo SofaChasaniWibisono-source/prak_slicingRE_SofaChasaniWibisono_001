@@ -36,4 +36,4 @@ project-folder/
 │── vite.config.js
 │── README.md
 
-saya banyak belajar dari pemebuatan web slicing ini dan baru pertama kali juga memakai libary dan tools ini yang awal nya error 2 harian gak bisa fiks berkat diajarin mas JOVANNN bisa meyelesaikan ini walaupun blm 100% sama dengan ui 
+saya banyak belajar dari pemebuatan web slicing ini dan baru pertama kali juga memakai libary dan tools ini yang awal nya error 2 harian gak bisa fiks berkat diajarin mas JOVANNN bisa meyelesaikan ini walaupun blm 100% sama dengan ui dan masih ada beberapa yang AI :V
